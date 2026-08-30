@@ -1,0 +1,12 @@
+We are hiring a Junior Python Developer.
+
+Required skills:
+- Python programming
+- Flask or FastAPI
+- REST API development
+- SQL and database fundamentals
+- Git and GitHub
+- Basic cloud or deployment knowledge
+- Good communication and problem-solving skills
+
+The candidate should be able to build, test, and document small web applications and APIs.

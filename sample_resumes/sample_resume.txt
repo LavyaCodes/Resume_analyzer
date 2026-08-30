@@ -1,0 +1,18 @@
+Ananya Rao
+Junior Python Developer
+
+SUMMARY
+Entry-level Python developer with project experience in Flask, SQLite, machine learning, and GitHub. Interested in backend development and AI applications.
+
+SKILLS
+Python, Flask, HTML, CSS, SQLite, Pandas, Scikit-learn, Git, GitHub, REST API basics, Streamlit
+
+PROJECTS
+Resume Screening Application: Built a Streamlit application that accepts resume files and compares them with a job description using sentence embeddings.
+
+Student Management API: Developed CRUD endpoints using Flask and SQLite. Tested endpoints using Postman and maintained the source code on GitHub.
+
+House Price Prediction: Trained a linear regression model using Pandas and Scikit-learn and displayed predictions through a simple Flask interface.
+
+EDUCATION
+Bachelor of Computer Applications, 2026
