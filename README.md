@@ -85,6 +85,9 @@ Top relevant chunks
    ↓
 Gemini analysis
 ```
+## 🎥 WATCH THE PROJECT DEMO
+
+[![AI Resume Analyzer Demo](demo-thumbnail.png)](https://youtu.be/XkasWAKAH10)
 
 ## Important note
 
